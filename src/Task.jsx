@@ -6,8 +6,6 @@ export default function Task(props) {
     };
 
     return (
-
-        // Silinecek Task in Bilgilerini Listeliyoruz Ve Silme Islemini Yapiyoruz
         <div className="col-md-4 mb-4">
             <div className="contentDiv">
                 <h1>{props.title}</h1>
